@@ -2,9 +2,9 @@
   "name": "nodejsrest",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodmon app.js"
+    "start": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
